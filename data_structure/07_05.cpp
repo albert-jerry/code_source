@@ -15,6 +15,7 @@ int main() {
     for (int i = 1; i < n ; i++) {
         s[i] = s[i - 1] + a[i];
     }
-    int q[100000], f = 0, r = -1;
+    int q[100000], f = 0;
+    r = -1;
     return 0;
 }
