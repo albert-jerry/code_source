@@ -11,7 +11,6 @@ struct bcj {
 void bing(int x, int y) {
     x--, y--;
     int fx = x, fy = y;
-    
 }
 
 int main() {

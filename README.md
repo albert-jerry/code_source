@@ -45,7 +45,7 @@
 - [09_01](data_structure/09_01.cpp)
 - [09_01](data_structure/09_02.cpp)
 
-## 10_字典树
+## 10_字典树(Trie)
 - [10_01](data_structure/10_01.cpp)
 - [10_02](data_structure/10_02.cpp)
 - [10_03](data_structure/10_03.cpp)
