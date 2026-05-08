@@ -66,3 +66,8 @@
 - [11_01](data_structure/11_01.cpp)
 - [11_02](data_structure/11_02.cpp)
 - [11_03](data_structure/11_03.cpp)
+
+# elementary_number_theory
+
+## 整除与最大公约数
+- [01_01](elementary_number_theory/01_01.cpp)
