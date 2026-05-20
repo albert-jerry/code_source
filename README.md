@@ -77,3 +77,13 @@
 ## algortithms
 
 ### 二分
+- [二分查找](algortithms/01_二分-二分查找.cpp)
+- [二分查找2](algortithms/02_二分-二分查找2.cpp)
+
+### 递归与函数
+
+- [阶乘](algortithms/03_递归与函数-阶乘.cpp)
+- [斐波那契数列](algortithms/04_递归与函数-斐波那契数列.cpp)
+- [爬楼梯](algortithms/05_递归与函数-爬楼梯.cpp)
+- [最大公约数](algortithms/06_递归与函数-最大公约数.cpp)
+- [质因数分解](algortithms/07_递归与函数-质因数分解.cpp)
